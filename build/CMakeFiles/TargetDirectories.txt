@@ -1,0 +1,7 @@
+C:/Users/andvi/Desktop/uwo/build/CMakeFiles/game.dir
+C:/Users/andvi/Desktop/uwo/build/CMakeFiles/edit_cache.dir
+C:/Users/andvi/Desktop/uwo/build/CMakeFiles/rebuild_cache.dir
+C:/Users/andvi/Desktop/uwo/build/CMakeFiles/list_install_components.dir
+C:/Users/andvi/Desktop/uwo/build/CMakeFiles/install.dir
+C:/Users/andvi/Desktop/uwo/build/CMakeFiles/install/local.dir
+C:/Users/andvi/Desktop/uwo/build/CMakeFiles/install/strip.dir

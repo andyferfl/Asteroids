@@ -1,0 +1,57 @@
+[
+{
+  "directory": "C:/Users/andvi/Desktop/uwo/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/game.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/game.dir/main.cpp.obj -c C:/Users/andvi/Desktop/uwo/main.cpp",
+  "file": "C:/Users/andvi/Desktop/uwo/main.cpp"
+},
+{
+  "directory": "C:/Users/andvi/Desktop/uwo/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/game.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/game.dir/game.cpp.obj -c C:/Users/andvi/Desktop/uwo/game.cpp",
+  "file": "C:/Users/andvi/Desktop/uwo/game.cpp"
+},
+{
+  "directory": "C:/Users/andvi/Desktop/uwo/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/game.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/game.dir/state.cpp.obj -c C:/Users/andvi/Desktop/uwo/state.cpp",
+  "file": "C:/Users/andvi/Desktop/uwo/state.cpp"
+},
+{
+  "directory": "C:/Users/andvi/Desktop/uwo/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/game.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/game.dir/menu-state.cpp.obj -c C:/Users/andvi/Desktop/uwo/menu-state.cpp",
+  "file": "C:/Users/andvi/Desktop/uwo/menu-state.cpp"
+},
+{
+  "directory": "C:/Users/andvi/Desktop/uwo/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/game.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/game.dir/game-state.cpp.obj -c C:/Users/andvi/Desktop/uwo/game-state.cpp",
+  "file": "C:/Users/andvi/Desktop/uwo/game-state.cpp"
+},
+{
+  "directory": "C:/Users/andvi/Desktop/uwo/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/game.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/game.dir/pause-state.cpp.obj -c C:/Users/andvi/Desktop/uwo/pause-state.cpp",
+  "file": "C:/Users/andvi/Desktop/uwo/pause-state.cpp"
+},
+{
+  "directory": "C:/Users/andvi/Desktop/uwo/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/game.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/game.dir/gameover-state.cpp.obj -c C:/Users/andvi/Desktop/uwo/gameover-state.cpp",
+  "file": "C:/Users/andvi/Desktop/uwo/gameover-state.cpp"
+},
+{
+  "directory": "C:/Users/andvi/Desktop/uwo/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/game.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/game.dir/entity.cpp.obj -c C:/Users/andvi/Desktop/uwo/entity.cpp",
+  "file": "C:/Users/andvi/Desktop/uwo/entity.cpp"
+},
+{
+  "directory": "C:/Users/andvi/Desktop/uwo/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/game.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/game.dir/asteroid.cpp.obj -c C:/Users/andvi/Desktop/uwo/asteroid.cpp",
+  "file": "C:/Users/andvi/Desktop/uwo/asteroid.cpp"
+},
+{
+  "directory": "C:/Users/andvi/Desktop/uwo/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/game.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/game.dir/spaceship.cpp.obj -c C:/Users/andvi/Desktop/uwo/spaceship.cpp",
+  "file": "C:/Users/andvi/Desktop/uwo/spaceship.cpp"
+},
+{
+  "directory": "C:/Users/andvi/Desktop/uwo/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/game.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/game.dir/bullet.cpp.obj -c C:/Users/andvi/Desktop/uwo/bullet.cpp",
+  "file": "C:/Users/andvi/Desktop/uwo/bullet.cpp"
+}
+]
